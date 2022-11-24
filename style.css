@@ -1,0 +1,129 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.header{
+    display: flex;
+    background-color: pink;
+}
+
+div.maintext{
+    font-family: monospace;
+    font-size: 16px;
+    line-height: 24px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    text-align: center;
+}
+div.logo{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    
+    
+   
+    
+}
+
+div.logo img{
+    display: flex;
+    width: 160px;
+    height: 60px;
+    padding: 30px;
+    text-align: center;
+    
+    
+}
+div.heading h1{
+    text-align: center;
+    font-family: monospace;
+    font-size: 30px;
+    font-weight: bolder;
+    
+}
+
+.box-main{
+display: flex;
+justify-content: center;
+align-items: center;
+}
+
+.firstsection{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px  20px 20px 20px;
+
+}
+
+div.box-main img{
+    width: 560px;
+    height: 150px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding-top: 30px;
+
+}
+.secondsection{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    
+}
+
+.firsthalf{
+    width: 240px;
+    height: 240px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.secondhalf{
+    width: 70%;
+}
+
+p.text-big{
+    font-family: monospace;
+    font-size: 24px;
+    font-weight: bold;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    text-align: center;
+}
+
+div.secondhalf li{
+    font-family: monospace;
+    font-size: 16px;
+    line-height: 24px;
+    padding-left: 20px;
+    padding-right: 20px;
+    text-align: left;
+
+}
+
+footer{
+    font-size: 12px;
+    line-height: 16px;
+    padding-left: 20px;
+    padding-right: 20px;
+    font-family: monospace;
+    font-weight: 300;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    text-align: center;
+}
+
+
